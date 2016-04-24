@@ -1,5 +1,6 @@
 import React, { Component, PropTypes } from 'react';
-import mui, {CircularProgress,
+import mui, {
+    CircularProgress,
     Tabs,
     Tab,
     DatePicker

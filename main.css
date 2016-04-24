@@ -1,3 +1,8 @@
 html {
     font-family: 'Roboto', sans-serif;
 }
+
+.tabs {
+    position: absolute;
+    bottom: 0;
+}
